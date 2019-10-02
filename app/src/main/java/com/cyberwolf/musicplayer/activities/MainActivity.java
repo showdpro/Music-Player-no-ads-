@@ -74,16 +74,18 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
     int randomInt;
     public void setBg(){
         Random randomBg = new Random();
-        randomInt = randomBg.nextInt(4);
+        randomInt = randomBg.nextInt(5);
         if(randomInt==0){
-            appbackground.setImageResource(R.drawable.blackbg1);
+            appbackground.setImageResource(R.drawable.gradient1);
         }else if(randomInt==1){
-            appbackground.setImageResource(R.drawable.blue);
+            appbackground.setImageResource(R.drawable.gradient2);
         }else if (randomInt==2){
-            appbackground.setImageResource(R.drawable.warmbg);
+            appbackground.setImageResource(R.drawable.gradient3);
         }else if(randomInt==3){
+            appbackground.setImageResource(R.drawable.gradient4);
+             }else if (randomInt==4){
             appbackground.setImageResource(R.drawable.rbgbg);
-             }
+        }
     }
 
 
@@ -352,14 +354,15 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
                         .setAction("OK", new View.OnClickListener() {
                             @Override
                             public void onClick(View view) {
-                                Nammu.askForPermission(MainActivity.this, Manifest.permission.READ_EXTERNAL_STORAGE, permissionReadstorageCallback);
+                                Nammu.askForPermission(MainActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE, permissionReadstorageCallback);
+
                               //  Nammu.askForPermission(MainActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE, permissionReadstorageCallback); //problems here boin temp whatever
 
 
                             }
                         }).show();
             } else {
-                Nammu.askForPermission(this, Manifest.permission.READ_EXTERNAL_STORAGE, permissionReadstorageCallback);
+                Nammu.askForPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE, permissionReadstorageCallback);
               //  Nammu.askForPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE, permissionReadstorageCallback); // here too lets look into this later
 
 

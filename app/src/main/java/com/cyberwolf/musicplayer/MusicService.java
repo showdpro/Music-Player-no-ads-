@@ -606,9 +606,9 @@ public class MusicService extends Service {
         }
 
         if (newNotifyMode == NOTIFY_MODE_FOREGROUND) {
-            startForeground(notificationId, buildNotification());
+            startForeground(notificationId, buildNotification()); //mega boin crash lolol target SDK 28 and above needs some custom built notification channels or something. Disable this line to stop it from crash temporary fix
         } else if (newNotifyMode == NOTIFY_MODE_BACKGROUND) {
-            mNotificationManager.notify(notificationId, buildNotification());
+            mNotificationManager.notify(notificationId, buildNotification()); // disable this one too lolo mega boin crash
         }
 
         mNotifyMode = newNotifyMode;
