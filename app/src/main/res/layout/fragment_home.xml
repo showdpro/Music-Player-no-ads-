@@ -1,0 +1,64 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.cyberwolf.musicplayer.fragments.HomeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/disable"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@color/black_translucent"
+            android:text="Disable Ambient Themes"
+            android:textSize="16sp"
+            android:visibility="invisible"
+            android:layout_alignTop="@+id/enable"
+            android:layout_alignBottom="@+id/enable"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:id="@+id/enable"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+
+            android:background="@color/black_translucent"
+            android:text="Enable Ambient Themes"
+            android:textSize="16sp"
+            android:layout_marginTop="43dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:id="@+id/settings"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="Open Settings"
+            android:textSize="16sp"
+            android:background="@color/black_translucent"
+            android:layout_below="@+id/disable"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="40dp" />
+      <!--  <com.google.android.gms.ads.AdView
+            android:id="@+id/adView1"
+            android:layout_width="match_parent"
+            android:visibility="gone"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_vertical"
+            app:adSize="BANNER"
+            app:adUnitId="test ad unit"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"></com.google.android.gms.ads.AdView> -->
+
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\c12b10f5300a6b649393b75d2f87c965a407cd70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_45435fdc1fe45460ad3fd3891181c5f2b40aaf3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.3.0\4f12ec1e1455909e1f0b8530c719c90b2d01745\okhttp-urlconnection-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04f12ec1e1455909e1f0b8530c719c90b2d01745">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.3.0_d934c85c863ba88294faad5871ed5e23c3993ef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\215071dfe91b240fbf298d808ea55cd2734a52c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_da9d59910610d96a20fd1e6be074b94b5c7d1496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\90638890da18216888fa072cb588870d0b87a84b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1fd408b6b37c4fe6391d18b4e48d9982defc0f5">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_e72d16c651df66b61209e3f71ecad0468bad181a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\b03dc0096025cf35d64e69b8d68f6bb56e7706b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c346058854421b89e04449a5c416673c0b9f11f2">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_6e7d5c43145ef33ade8c6ba9e5e60db24fa2b861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\e0c2d199fe2afaf2ff9fab11df675ee6cc00e839\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3f8ab57967a9149262ad36a46477fc2515f6ac8">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_52fb2369a62519953dd3b5d210a0b23d550ae423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\f123df50562bf81bbf0d5e4d93e1f87069b76f05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_7207d70181825d4132c86b5c7b6b06c164f041ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\f44c87b318639f59fba5ef7a7643f06bbabf4cfe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_5068d100726f4cc76987d07c7ef282182d88dea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\b2b027d1853aba2acb306db47f41fbcf1893e260\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_9433f57be8883ac3e03abe2283a6db78c509df89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\491f807a24ad7ed15b8bd157cf1481c209551f27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_57939bc0f47d0c91fad38e084457b562ab988e56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\801f0f9c475febcf8f598fb798449511d00825ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_8e9121f5ca6ec23a036340afcf570801050b9768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\3c150877543ea63609c479a9ad9fe9744342fc3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_80859768cbb00fa2f61cd5263b816439ab03faeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\okhttp-2.3.0_e1bd3385d901ae541a75e9dc5d18e60a0bf9d341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\46ea94a4dca59f8d493bdd349a9e7477b140032c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01acd167d64a3835490f0d058c9e9052a514797c">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_a49394ef5943661909a97df0e26718bb8bca8dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\6c7d1b9f2c44f79e0fda2d62c91d86f5d16cf824\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_51e0eccc00ec4c6c2c935f290a01d4ed18b96645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\0049e0c4d232b1bf14dc6d9e160883e8e5ecbe99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_4663a35ca244e91737b5be5d0c57b4556043a85a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\209bb240001747f327190a0ed9695b3c3640e372\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_a2ddd6b027ba4c1520eb3f4b310f7c1610d552ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_57bd1a65889d08d76f6a7f83ee6d9f19d67e3741.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\cff926c4f4a9833d04db2344dc52edd9c4d82535\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_831f214d825f21ad1bebe2f4ecf3158491e27f48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhi\.android\build-cache\ea8f466f926b6a736cc1a7ca18fda8c91efaa6ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f14a57ab20f539de366b6600fe150d8794ed7a39">
+        <dex dex="C:\Users\Abhi\Desktop\projects\Timber-master\app\build\intermediates\pre-dexed\debug\classes_96fe46c08dd5dc00ebb88e29b6270e17d4a6924b.jar" />
+    </item>
+
+</items>
